@@ -1,0 +1,6 @@
+streamlit
+pandas
+gspread_pandas
+google-api-python-client
+json
+os
